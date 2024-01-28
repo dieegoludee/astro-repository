@@ -1,0 +1,19 @@
+{
+  "name": "astro-repository",
+  "version": "1.0.0",
+  "description": "Proyectos con Astro 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dieegoludee/astro-repository.git"
+  },
+  "author": "diegoludev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dieegoludee/astro-repository/issues"
+  },
+  "homepage": "https://github.com/dieegoludee/astro-repository#readme"
+}
