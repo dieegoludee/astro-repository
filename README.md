@@ -1,1 +1,1 @@
-# astro-repository
+# astro-repository for projects with Astro 3
